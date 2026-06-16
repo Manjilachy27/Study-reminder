@@ -1,0 +1,7 @@
+theme: jekyll-theme-minimal
+markdown: kramdown
+exclude:
+  - README.md
+  - DEPLOYMENT.md
+  - node_modules
+  - vendor
